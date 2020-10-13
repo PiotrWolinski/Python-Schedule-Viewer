@@ -1,3 +1,4 @@
 test.py
 *.mp3
 .vscode
+__pycache__
